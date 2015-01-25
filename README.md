@@ -31,7 +31,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Files
 
-* CodeBook.md - information about raw and tidy data set and elaboration made to transform them
+* CodeBook.md - information about raw and tidy data set
 * README.md - this file
 * run_analysis.R - R script to process a data set into tidy data set
 
